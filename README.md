@@ -4,8 +4,8 @@ I'm a software engineer with over six years experience, I am proficient with Nod
 
 🔭 I’m currently working on: 
   
-- **Scheduler0** a web app that gives you more control over your scheduled tasks.
-- **iDraw** a native iPad app for sharing notes which takes advantage of PencilKit. 
+- **Scheduler0:** a web app that gives you more control over your scheduled tasks.
+- **iDraw:** a native iPad app for sharing notes which takes advantage of PencilKit. 
 
 🌱 I’m currently learning:
 
@@ -14,7 +14,7 @@ I'm a software engineer with over six years experience, I am proficient with Nod
 
 📫 How to reach me:
 
-- email: vnwaokocha[at]gmail.com
+- **Email:** vnwaokocha[at]gmail.com
 
 😄 Pronouns: 
 
