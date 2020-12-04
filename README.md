@@ -14,7 +14,7 @@ I'm a software engineer with over six years experience, I am proficient with Nod
 
 📫 How to reach me:
 
-- **Email:** vnwaokocha[at]gmail.com
+- **Email:** vnwaokocha[at]gmail[dot]com
 
 <!--
 **victorlenerd/victorlenerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
