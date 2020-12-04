@@ -16,14 +16,6 @@ I'm a software engineer with over six years experience, I am proficient with Nod
 
 - **Email:** vnwaokocha[at]gmail.com
 
-😄 Pronouns: 
-
-He / Him
-
-⚡ Fun fact:
-
-Although, I grew in sub-sahara africa, I enjoy ice skating a lot.
-
 <!--
 **victorlenerd/victorlenerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
