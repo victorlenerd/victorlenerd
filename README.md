@@ -4,11 +4,11 @@ I'm a software engineer with over six years experience, I am proficient with Nod
 
 🔭 I’m currently working on: 
   
-- **Scheduler0:** a web app that gives you more control over your scheduled tasks.
-- **iDraw:** a native iPad app for sharing notes which takes advantage of PencilKit. 
+- **Scheduler0:** A simple cloud scheduling server for your apps and backend..
 
 🌱 I’m currently learning:
 
+- Distributed programming
 - Swift and things within the apple development ecosystem
 - Datastructures and Algorithms
 
