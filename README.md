@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with over six years experience, I am proficient with NodeJS, TypeScript, React but I'm also quiet familiar with GoLang, Python, Java and Swift.
+I'm a software engineer with over six years experience proficient with NodeJS, TypeScript, React and GoLang, Postgres.
 
 🔭 I’m currently working on: 
   
@@ -8,9 +8,7 @@ I'm a software engineer with over six years experience, I am proficient with Nod
 
 🌱 I’m currently learning:
 
-- Distributed programming
-- Swift and things within the apple development ecosystem
-- Datastructures and Algorithms
+- Distributed systems
 
 📫 How to reach me:
 
