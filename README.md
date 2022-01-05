@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with over six years experience, proficient with NodeJS, TypeScript, React and GoLang, PostgreSQL. 
+I'm a fullstack software engineer with over six years experience, proficient with NodeJS, TypeScript, React, GoLang, and PostgreSQL stacks. My expreience ranges from client side development such as web front-end, react-native hybrid mobile and native iOS to maintaining server side applications built with scalable design patterns for REST and gRPC. 
 
 🔭 I’m currently working on: 
   
