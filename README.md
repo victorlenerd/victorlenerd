@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with over six years experience proficient with NodeJS, TypeScript, React and GoLang, Postgres.
+I'm a software engineer with over six years experience proficient with NodeJS, TypeScript, React and GoLang, PostgreSQL.
 
 🔭 I’m currently working on: 
   
