@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm a fullstack software engineer with over 7 years experience, proficient with NodeJS, TypeScript, React, GoLang, and PostgreSQL stacks. My expreience ranges from client side development such as web front-end, react-native hybrid mobile and native iOS to maintaining server side applications built with scalable design patterns such as microservices using REST or gRPC. 
+As an experienced software engineer, I have a passion for creating innovative solutions to complex problems. With over 6 years of experience in the industry, I have developed expertise in several programming languages and platforms, including Go, Java, Python, and Node.js.
+
+Throughout my career, I have gained experience in building scalable and secure applications for a variety of industries, including finance, healthcare, and e-commerce. I have a strong understanding of software development best practices, including Agile methodologies and continuous integration and deployment.
+
+In addition to my technical skills, I am a strong collaborator who enjoys working with cross-functional teams to deliver successful outcomes. I am a strong believer in the power of teamwork and take pride in my ability to communicate effectively with both technical and non-technical stakeholders.
+
+As a lifelong learner, I am committed to staying up-to-date with the latest developments in the field and continuously seek out new challenges to further develop my skills. If you're looking for a dedicated software engineer who is passionate about creating exceptional solutions, let's connect.
 
 🔭 I’m currently working on: 
   
