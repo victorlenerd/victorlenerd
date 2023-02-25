@@ -15,6 +15,7 @@ As a lifelong learner, I am committed to staying up-to-date with the latest deve
 🌱 I’m currently learning:
 
 - Distributed systems
+- Rust
 
 📫 How to reach me:
 
