@@ -16,6 +16,7 @@ As a lifelong learner, I am committed to staying up-to-date with the latest deve
 
 - Distributed systems
 - Rust
+- Terraform
 
 📫 How to reach me:
 
