@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As an experienced software engineer, I have a passion for creating innovative solutions to complex problems. With over 6 years of experience in the industry, I have developed expertise in several programming languages and platforms, including Go, Java, Python, and Node.js.
+As an experienced software engineer, I have a passion for creating innovative solutions to complex problems. With over 7 years of experience in the industry, I have developed expertise in several programming languages and platforms, including Go, Java, Python, and Node.js.
 
 Throughout my career, I have gained experience in building scalable and secure applications for a variety of industries, including finance, healthcare, and e-commerce. I have a strong understanding of software development best practices, including Agile methodologies and continuous integration and deployment.
 
@@ -8,15 +8,6 @@ In addition to my technical skills, I am a strong collaborator who enjoys workin
 
 As a lifelong learner, I am committed to staying up-to-date with the latest developments in the field and continuously seek out new challenges to further develop my skills. If you're looking for a dedicated software engineer who is passionate about creating exceptional solutions, let's connect.
 
-🔭 I’m currently working on: 
-  
-- **Scheduler0:** A simple cloud scheduling server for your apps and backend..
-
-🌱 I’m currently learning:
-
-- Distributed systems
-- Rust
-- Terraform
 
 📫 How to reach me:
 
