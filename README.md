@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As an experienced software engineer, I have a passion for creating innovative solutions to complex problems. With over 7 years of experience in the industry, I have developed expertise in several programming languages and platforms, including Go, Java, Python, and Node.js.
+As an experienced software engineer, I have a passion for creating innovative solutions to complex problems. With over seven years of experience in the industry, I have developed expertise in several programming languages and platforms, including Go, Java, Python, and Node.js.
 
 Throughout my career, I have gained experience in building scalable and secure applications for a variety of industries, including finance, healthcare, and e-commerce. I have a strong understanding of software development best practices, including Agile methodologies and continuous integration and deployment.
 
